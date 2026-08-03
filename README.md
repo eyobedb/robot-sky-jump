@@ -97,7 +97,7 @@ The template includes dark mode support through Tailwind's `dark:` classes and C
 
 Feel free to submit issues and enhancement requests!
 
-**⚡ Powered by Eyoba Tech PLC** - The AI-powered web development platform that helps you build full-stack applications faster.
+**⚡ Powered by Eyoba Tech** - The AI-powered web development platform that helps you build full-stack applications faster.
 
 ---
 
